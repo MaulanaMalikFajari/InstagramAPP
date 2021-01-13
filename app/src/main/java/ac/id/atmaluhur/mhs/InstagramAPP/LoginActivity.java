@@ -19,7 +19,7 @@ public class LoginActivity extends AppCompatActivity {
         mBtn_login = findViewById(R.id.button_login1);
 
         mBtn_login.setOnClickListener(v -> {
-            Intent iLogin = new Intent(getApplicationContext(), LoginActivity.class);
+            Intent iLogin = new Intent(getApplicationContext(), HomeActivity.class);
             startActivity(iLogin);
         });
     }
