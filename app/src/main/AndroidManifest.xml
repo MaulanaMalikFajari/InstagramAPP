@@ -20,6 +20,8 @@
         </activity>
         <activity android:name=".SignupActivity">
         </activity>
+        <activity android:name=".HomeActivity">
+        </activity>
 
     </application>
 
