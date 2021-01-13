@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS_DPM_TI5A_InstagramAPP</string>
+    <string name="username">Phone number or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="loginas">Log in as @malek_fajari</string>
+    <string name="signup">Sign up</string>
+    <string name="forget">Forgetten your login details?</string>
+    <string name="or">OR</string>
+    <string name="gethelp">Get help with logging in.</string>
+    <string name="signupbutton">Dont have an Account? Sign up</string>
+</resources>
