@@ -19,7 +19,7 @@ public class SignupActivity extends AppCompatActivity {
         mBtn_login = findViewById(R.id.button_login);
 
         mBtn_login.setOnClickListener(v -> {
-            Intent iLogin = new Intent(getApplicationContext(), MainActivity.class);
+            Intent iLogin = new Intent(getApplicationContext(), LoginActivity.class);
             startActivity(iLogin);
         });
     }

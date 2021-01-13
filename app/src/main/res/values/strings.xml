@@ -2,6 +2,12 @@
     <string name="app_name">UAS_DPM_TI5A_InstagramAPP</string>
     <string name="username">Phone number or Username</string>
     <string name="password">Password</string>
+    <string name="telepon">TELEPON</string>
+    <string name="email">EMAIL</string>
+    <string name="nomor">ID +62</string>
+    <string name="pemberitahuan">Anda mungkin menerima pemberitahuan SMS dari instagram dan dapat memilih berhenti menerimanya kapan saja.</string>
+    <string name="next">Selanjutnya</string>
+    <string name="akun">Sudah Punya Akun? Masuk.</string>
     <string name="login">Login</string>
     <string name="loginas">Log in as @malek_fajari</string>
     <string name="signup">Sign up</string>
@@ -9,4 +15,12 @@
     <string name="or">OR</string>
     <string name="gethelp">Get help with logging in.</string>
     <string name="signupbutton">Dont have an Account? Sign up</string>
+    <string name="sandrinna">Sandrinna</string>
+    <string name="naura">naura ayu</string>
+    <string name="agnes">agnes mon</string>
+    <string name="selena">selena go</string>
+    <string name="likes">159,900</string>
+    <string name="viewallcomments">View all 949 comments</string>
+    <string name="trying">Trying to love this pic 1000000 times....</string>
+    <string name="looking">Looking at 2021 like.</string>
 </resources>
